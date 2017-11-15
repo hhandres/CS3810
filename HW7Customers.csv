@@ -1,0 +1,2 @@
+Customer_id,First_name,Last_name,Street,City,State,Zip,Country,Country_code,Area_code,Local_number,Email1,Email2,Email3,Email4
+1,Bob,Dylan,23 Skadoo St,Denver,CO,93000,USA,1,303,555-4933,bob@dylan.org,,,
